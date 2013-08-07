@@ -6,6 +6,40 @@
 		<string>Hammer</string>
 		<key>settings</key>
 		<array>
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_000000FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#000000FF</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+<key>foreground</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_FFFFFFFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#FFFFFFFF</string>
+<key>caret</key>
+<string>#000000FF</string>
+<key>foreground</key>
+<string>#000000FF</string>
+</dict>
+</dict>
+
+
 			<dict>
 				<key>settings</key>
 				<dict>
@@ -13,8 +47,8 @@
 					<key>caret</key><string>#ffffff</string>
 					<key>foreground</key><string>#bdae9d</string>
 					<key>invisibles</key><string>#FF0000</string>
-					<key>lineHighlight</key><string>#ffffff</string>
-					<key>selection</key><string>#ffffff20</string>
+					<key>lineHighlight</key><string>#37A8ED50</string>
+					<key>selection</key><string>#37A8ED50</string>
 					<key>activeGuide</key><string>#E5C138CC</string>
 					<key>bracketsForeground</key><string>#ff0000</string>
 					<key>bracketsOptions</key><string>underline</string>
