@@ -1,0 +1,14 @@
+{
+    "schema_version": "2.0",
+    "packages": [
+        {
+            "name": "Color Scheme - Hammer",
+            "details": "https://github.com/jared-christensen/sublime-2-color-scheme-hammer",
+            "releases": [
+                {
+                    "details": "https://github.com/jared-christensen/sublime-2-color-scheme-hammer/tags"
+                }
+            ]
+        }
+    ]
+}
